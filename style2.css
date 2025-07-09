@@ -1,0 +1,37 @@
+body{
+    overflow-x:hidden ;
+}
+.main{
+    position: relative;
+    height: 250px;
+}
+.triangle{
+    position: absolute;
+    height: 200px;
+    width: 200px;
+    background-color: chartreuse;
+    border-radius: 50%;
+    right: -5%;
+    bottom: 150px;
+}
+.square{
+    position: absolute;
+    height: 200px;
+    width: 200px;
+    background-color: rgb(255, 0, 217);
+    right: 90%;
+    bottom: 150px;
+}
+.rectangle{
+    position: absolute;
+    height: 200px;
+    width: 400px;
+    background-color: rgb(0, 145, 255);
+    left: 90%;
+    top: 600px;
+  
+}
+img{
+    height: 700px;
+    width: 1600px;
+}
