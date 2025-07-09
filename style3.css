@@ -1,0 +1,11 @@
+.name{
+    font-size: 50px;
+    color: aqua;
+}
+@media (max-width:972px)
+{
+  .name{
+    font-size: 25px;
+    color: rgb(255, 0, 0);
+}  
+}
