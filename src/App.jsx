@@ -1,4 +1,5 @@
-import Router from "./Router/Router";
+import Router from './router/Router'; // Matches folder name
+
 
 export default function App() {
   return (
